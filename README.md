@@ -22,6 +22,10 @@ test_labels = np.zeros((10000,))
 
 scale: 0.7008 - 0.7233 
 
+![TrainingAndValidationAccuracy](https://github.com/ZhangYizhe/CIFAR-10-DeepLearning/blob/main/TrainingAndValidationAccuracy.png)
+
+![TrainingAndValidationLoss](https://github.com/ZhangYizhe/CIFAR-10-DeepLearning/blob/main/TrainingAndValidationLoss.png)
+
 ### Process
 
 First, you need to use CIFAR10-Py-ProcessData.py file to convert data from cifar-10-batches-py.
