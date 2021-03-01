@@ -8,7 +8,7 @@
 MaxPooling2D, Dropout, Flatten, BatchNormalization
 ```
 
-### Shape: 
+### Shape
 
 ```
 train_data = np.zeros((50000, 32, 32, 3))
@@ -31,6 +31,10 @@ scale: 0.7008 - 0.7233
 First, you need to use CIFAR10-Py-ProcessData.py file to convert data from cifar-10-batches-py.
 
 Then you can use CIFAR10-Py.py file to start learning.
+
+### Dataset
+
+https://www.cs.toronto.edu/~kriz/cifar.html
 
 ### Summary:
 
